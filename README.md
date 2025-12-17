@@ -30,7 +30,7 @@
 4. **Kế hoạch chi tiết**
 5. **Sprint Backlog**
 6. **Tài liệu kiến trúc:**
-- *a. Biểu đồ use case (ca sử dụng): tổng quát, phân rã, đặt tả*
+- *a. Biểu đồ use case (ca sử dụng): tổng quát, phân rã, đặc tả*
 - *b. Biểu đồ hoạt động*
 - *c. Biểu đồ trình tự*
 - *d. Biểu đồ lớp*
