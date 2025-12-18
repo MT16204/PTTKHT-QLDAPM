@@ -5,7 +5,7 @@
 ---
 ### 👥 Thông tin thành viên
 
-<img src="https://i.imgur.com/w41u48I.jpeg" align="right" width="320" height="230" style="margin-left:10px;"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhiZHhuMm9yZWUwNjB0dWZld2V2djVldDdsc2kyZzUyN2Z1bjN2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GmkY6j1KqEHWdV3tDj/giphy.gif" align="right" width="320" height="230" style="margin-left:10px;"/>
 
 | STT | Họ và Tên | Vai trò |
 | :--- | :--- | :--- |
