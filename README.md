@@ -3,8 +3,10 @@
 **Giáo viên hướng dẫn:** TS. Nguyễn Tấn Thuận
 
 ---
+### 👥 Thông tin thành viên
 
-### 👥 Thông tin thành viên 
+<img src="https://i.imgur.com/w41u48I.jpeg" align="right" width="320" height="230" style="margin-left:10px;"/>
+
 | STT | Họ và Tên | Vai trò |
 | :--- | :--- | :--- |
 | 1 | **Hoàng Kim Hùng** | **Product Owner** |
