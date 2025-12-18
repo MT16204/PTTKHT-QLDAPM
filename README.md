@@ -1,5 +1,5 @@
 # PTTKHT - QLDAPM
-# ☕ Hệ Thống Quản Lý Cà Phê (Coffee Management System)
+# ☕ Hệ Thống Quản Lý Quán Cà Phê (Coffee Shops Management System)
 **Học phần:** Phân tích thiết kế hệ thống - Quản lý dự án phần mềm  
 **Giáo viên hướng dẫn:** TS. Nguyễn Tấn Thuận
 
