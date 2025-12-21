@@ -9,11 +9,11 @@
 
 | STT | Họ và Tên | Vai trò |
 | :--- | :--- | :--- |
-| 1 | **Hoàng Kim Hùng** | **Product Owner** |
+| 1 | **Phạm Minh Tuấn** | **Product Owner** |
 | 2 | **Mai Thị Thanh Huyền** | **Scrum Master** |
 | 3 | **Lâm Thị Thuỳ Dung** | **Developer** |
 | 4 | **Lê Trung Tiến** | **Developer** |
-| 5 | **Phạm Minh Tuấn** | **Tester** |
+| 5 | **Hoàng Kim Hùng** | **Tester** |
 
 ---
 ### 📅 Kế hoạch quản lý dự án
